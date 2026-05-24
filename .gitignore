@@ -12,6 +12,9 @@ venv/
 
 # Data files
 *.csv
-data/
+data/*
+!data/
+!data/**/*.dvc
+
 # Mac system files
 .DS_Store
