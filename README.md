@@ -20,3 +20,11 @@ This project analyzes historical car insurance claims data from AlphaCare Insura
 - DVC
 
 ## Project Structure
+
+## Data Version Control (DVC)
+
+We used DVC to version control the dataset.
+
+### How to reproduce:
+1. dvc pull
+2. run notebooks
