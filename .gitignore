@@ -11,6 +11,7 @@ venv/
 .env
 
 # Data files
+data/*.txt
 *.csv
 data/*
 !data/
